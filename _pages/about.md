@@ -2,7 +2,6 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
@@ -14,8 +13,15 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Thanks for stopping by!
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I'm a researcher dedicated to algorithmically generating scenarios to evaluate and test robots and AI. A major goal of my work is to help us understand these systems, find dangerous faults, and develop rigorously testing methods for modern AI.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+A major thrust in my research has been quality diversity optimization, a class of optimization that finds a diverse collection of solutions, while also maximizing an objective. 
+During my PhD, we developed the Covariance Matrix Adaptation MAP-Elites (CMA-ME) and Covariance Matrix Adaptation MAP-Annealing (CMA-MAE) algorithms. 
+We introduced Differentiable Quality Diversity, the first-order counterpart to blackbox quality diversity optimization. 
+All of the algorithms are implemented in the [pyribs](https://www.pyribs.org/) library.
+
+My research leverages quality diversity optimization as a search method to find good coverage of interesting failure modes in autonomous systems. Together with my labmates in the [ICAROS](https://icaros.usc.edu/) lab at the University of Southern California (USC), we developed a general framework for finding failures against arbitrary blackbox robotic systems.
+
+I'm now looking for avenues for continuing my research. If you have an opportunity for me, please don't hesitate to reach out!

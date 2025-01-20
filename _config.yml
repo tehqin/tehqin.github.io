@@ -9,7 +9,7 @@ last_name: Fontaine
 contact_note: >
   See my CV for contact information.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Hello World! I'm Matt, a quality diversity optimization researcher.
+  I'm Matt, a quality diversity optimization researcher.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -197,7 +197,6 @@ exclude:
   - lighthouse_results/
   - package.json
   - package-lock.json
-  - _pages/about_einstein.md
   - purgecss.config.js
   - README.md
   - readme_preview/
