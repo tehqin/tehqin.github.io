@@ -1,9 +1,38 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"AAAI":
+  url: https://aaai.org/conference/aaai/
 
-"PhysRev":
-  url: https://journals.aps.org/
+"AIIDE":
+  url: http://aiide.org
 
-"Vision":
-  color: "#009f36"
+"CoG":
+  url: https://2024.ieee-cog.org
+
+"CoRL":
+  url: https://www.corl.org
+
+"GECCO":
+  url: https://dblp.org/db/conf/gecco/index.html
+
+"ICLR":
+  url: https://iclr.cc
+
+"IJCAI":
+  url: https://www.ijcai.org
+
+"NeurIPS":
+  url: https://neurips.cc
+
+"RA-L":
+  url: https://www.ieee-ras.org/publications/ra-l
+
+"RSS":
+  url: https://roboticsconference.org
+    
+"TELO":
+  url: https://dl.acm.org/journal/telo
+
+"THRI":
+  url: https://dl.acm.org/journal/thri
+
+"ToH":
+  url: https://www.ieee-ras.org/publications/toh

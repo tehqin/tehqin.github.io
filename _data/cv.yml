@@ -50,7 +50,7 @@
       year: 2012 - 2017
     
     - title: Research Assistant
-      institution: Interactive Realities Lab, Institute for Simulation and Training, University of Central Florida
+      institution: <a href="https://www.irl.one">Interactive Realities Lab</a>, Institute for Simulation and Training, University of Central Florida
       year: 2008 - 2014
 
 - title: Awards and Honors
@@ -58,7 +58,7 @@
   contents:
     - year: 2025
       items:
-        - USC PhD Achievement Award (awarded to 6 students university-wide)
+        - USC PhD Achievement Award <br> (awarded to 6 students university-wide)
     - year: 2024
       items:
         - Spotlight Presentation at ICLR
