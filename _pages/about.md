@@ -15,7 +15,7 @@ social: true # includes social icons at the bottom of the page
 
 Thanks for stopping by!
 
-I'm a researcher dedicated to algorithmically generating scenarios to evaluate and test robots and AI. A major goal of my work is to help us understand these systems, find dangerous faults, and develop rigorously testing methods for modern AI.
+I'm a researcher dedicated to algorithmically generating scenarios to evaluate and test robots and AI. A major goal of my work is to help us understand these systems, find dangerous faults, and develop rigorous testing methods for modern AI.
 
 A major thrust in my research has been quality diversity optimization, a class of optimization that finds a diverse collection of solutions, while also maximizing an objective. 
 During my PhD, we developed the Covariance Matrix Adaptation MAP-Elites (CMA-ME) and Covariance Matrix Adaptation MAP-Annealing (CMA-MAE) algorithms. 

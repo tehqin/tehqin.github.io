@@ -27,7 +27,10 @@
 
 "RSS":
   url: https://roboticsconference.org
-    
+
+"SIGGRAPH":
+  url: https://www.siggraph.org
+
 "TELO":
   url: https://dl.acm.org/journal/telo
 
